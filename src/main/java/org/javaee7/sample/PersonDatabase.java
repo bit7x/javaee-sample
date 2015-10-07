@@ -22,7 +22,7 @@ public class PersonDatabase {
                 new Person("Howard"), 
                 new Person("Bernadette"), 
                 new Person("Raj"), 
-                new Person("Priya"));
+                new Person("Viranja"));
     }
 
     public Person[] currentList() {
