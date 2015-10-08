@@ -18,7 +18,7 @@ public class PersonDatabase {
                 new Person("Dumidu"), 
                 new Person("CD_Test"), 
                 new Person("Sheldo"), 
-                new Person("Amy"), 
+                new Person("TestUser"), 
                 new Person("Howard"), 
                 new Person("Bernadette"), 
                 new Person("TestUser"), 
